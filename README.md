@@ -15,4 +15,4 @@ This project involved:
 - **Database Creation**: Building structured datasets to facilitate further analysis.
 - **Data Visualization**: Creating informative dashboards and reports using Tableau.
 
-By the steps explained in this article [https://medium.com/p/1dc5fb6685b3/edit], you can harness the power of LLMs to gain valuable insights from job descriptions and make informed decisions about your career development. So, are you ready to dive in?
+By the steps explained in [this article](https://medium.com/p/1dc5fb6685b3/edit), you can harness the power of LLMs to gain valuable insights from job descriptions and make informed decisions about your career development. So, are you ready to dive in?
