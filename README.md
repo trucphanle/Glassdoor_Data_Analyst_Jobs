@@ -9,7 +9,7 @@ This project aimed to analyze the current data analyst job market in the US usin
 - **Gain data-driven insights**: Uncover the most sought-after technical skills in the data analyst job market.
 - **Inform personal development**: Identify areas for improvement to strengthen my candidacy for future positions.
 
-This article will guide you through the entire process, covering:
+This project involved:
 - **Data Acquisition:** Utilizing Python for web scraping to collect job postings from Glassdoor.
 - **Data Processing**: Leveraging LLMs and APIs to extract key information and keywords from the job descriptions and transform them into a usable format.
 - **Database Creation**: Building structured datasets to facilitate further analysis.
